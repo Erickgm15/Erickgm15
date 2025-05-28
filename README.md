@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hello World. I'm Erick Garcia  👋.
 
-<!--
-**Erickgm15/Erickgm15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="./Pokemon.gif" align="right" width="15%"/>
+  <samp>
+    <br>Soy un desarrollador Web y creador de contenidos digitales.
+    <br>
+    <br>🔹 Actualmente estoy aprendiendo Varios Lenguajes de Programacion 
+    <br>🔹 Programación en Java 
+    <br>🔹 Lo que mejor seme da es Son los temas de Sistemas 
+    </samp>
+   <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     <br> 
+  <p align="center">
+    <samp>
+      #html, #css, #javascript, #git,  #python, #Java SE, #SQL,  #linux
+     </samp>
+    <br>
+  </p>
+  
+</p>
