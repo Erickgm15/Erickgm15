@@ -1,10 +1,14 @@
-### Hello World. I'm Erick Garcia  👋.
+### Hello World. I'm Erick Garcia  .
 
 <p>
   <img src="./Pokemon.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy un desarrollador Web y creador de contenidos digitales.
-    <br>🔹  ALIAS " POLLO " 
+    <br>  
+            |  _ \ / _ \| |   | |   / _ \ 
+            | |_) | | | | |   | |  | | | |
+            |  __/| |_| | |___| |__| |_| |
+            |_|    \___/|_____|_____\___/ 
+    <br> Soy un desarrollador Web y creador de contenidos digitales.
     <br>🔹 Actualmente estoy aprendiendo Varios Lenguajes de Programacion 
     <br>🔹 Programación en Java 
     <br>🔹 Lo que mejor seme da es Son los temas de Sistemas 
