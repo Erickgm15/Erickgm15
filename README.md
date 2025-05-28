@@ -3,11 +3,7 @@
 <p>
   <img src="./Pokemon.gif" align="right" width="15%"/>
   <samp>
-    <br>  
-            |  _ \ / _ \| |   | |   / _ \ 
-            | |_) | | | | |   | |  | | | |
-            |  __/| |_| | |___| |__| |_| |
-            |_|    \___/|_____|_____\___/ 
+    <br> ALIAS " POLLO "  
     <br> Soy un desarrollador Web y creador de contenidos digitales.
     <br>🔹 Actualmente estoy aprendiendo Varios Lenguajes de Programacion 
     <br>🔹 Programación en Java 
