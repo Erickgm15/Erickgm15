@@ -5,7 +5,7 @@
   <samp>
     <br> Tambien llamado  " POLLO GARCIA "  
     <br>🔹 Soy un desarrollador Web y creador de contenidos digitales.
-    <br>🔹 HTML full  
+    <br>🔹 HTML full 
     <br>🔹 Programación en Java 
     <br>🔹 Soporte Tecnico  
     <br>🔹 DREAM TEAM Lucario , Greninja , Melmetal , Pikachu , Snorlax , Gengar 
@@ -15,7 +15,7 @@
     
   <p align="center">
     <samp>
-      #html, #css,  #git,  #python, #Java SE, #SQL,  #linux
+      #HTML #SOPORTE #MANTENIMIENTO #CSS #GIT 
      </samp>
     <br>
   </p>
